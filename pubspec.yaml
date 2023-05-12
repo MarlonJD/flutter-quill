@@ -24,7 +24,7 @@ dependencies:
     git:
       url: https://github.com/MarlonJD/i18n_extension
       ref: master
-  device_info_plus: ^9.0.0
+  device_info_plus: ^8.0.0
   platform: ^3.1.0
   pasteboard: ^0.2.0
 
